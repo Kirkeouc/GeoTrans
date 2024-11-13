@@ -1,5 +1,3 @@
-# Reference-based Super-Resolution with Geometric-Aware Transfer
-
 ## Dependency and Installation
 
 - Ubuntu 20.04
