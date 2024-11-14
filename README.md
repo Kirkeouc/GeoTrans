@@ -56,7 +56,7 @@ The results will be saved in ./result
 
 ## Acknowledgement
 
-The code framework is mainly modified from [C2-Matching]，[MRefSR] and [BasicSR]. We thank the authors for their great work. Please refer to the original repo for more usage and documents. The complete code will be released later.
+The code framework is mainly modified from [BasicSR] and [MMSR]. We thank the authors for their great work. Please refer to the original repo for more usage and documents. The complete code will be released later.
 
 
 
